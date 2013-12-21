@@ -1,5 +1,6 @@
 # Cooment 
 tempFile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
@@ -9,3 +10,4 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
 
+ 
